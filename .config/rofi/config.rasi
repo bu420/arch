@@ -1,0 +1,6 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ font: "monospace 12";
+ combi-modi: "window,drun,ssh";
+ }
+@theme "bu-theme"
